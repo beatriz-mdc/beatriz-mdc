@@ -1,6 +1,6 @@
 # about me
 - 👋 Hi, I’m @beatriz-mdc
-- 👀 I’m interested in sql and analytics
+- 👀 I’m interested in analytics
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @beatrizmdc
