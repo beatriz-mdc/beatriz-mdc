@@ -4,7 +4,7 @@
 
 ---
 
-### Business Intelligence | Data Analyst | Analytics
+### Business Intelligence | Análise de Dados
 
 ---
 
